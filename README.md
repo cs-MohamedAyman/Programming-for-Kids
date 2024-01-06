@@ -1,4 +1,4 @@
-<a href="/README.md"><img align="right" width="160" src="/logos/programming-for-kids.png"></img></a>
+<picture><img align="right" width="160" src="logos/programming-for-kids.png"></img></picture>
 
 # Programming for Kids
 Programming for Kids for computer science kids.
